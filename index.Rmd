@@ -39,7 +39,7 @@ After receiving some basic tuition in navigation, the participants must pass the
 
 <img src = "http://www.youreventonline.es/event/v2005/fotos/photo-764.jpg" width="360"> <img src = "http://www.youreventonline.es/event/v2005/fotos/photo-1524.jpg" width="360" align="right">
 
-<img src = "http://www.youreventonline.es/event/v2005/fotos/photo-619.jpg"> 
+<img src = "http://www.youreventonline.es/event/v2005/fotos/photo-619.jpg" width="800"> 
 
 
 
