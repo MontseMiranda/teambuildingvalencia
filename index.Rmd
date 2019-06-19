@@ -1,0 +1,157 @@
+---
+title: "TEAMBULDING ACTIVITY IN VALENCIA"
+author: "HELMSBRISCOE"
+date: 'JULY 3RD 2019'
+output:
+ 
+  html_document:
+    css: FORMATO.css
+    fig_width: 8
+    fig_height: 8
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+
+```{r echo=FALSE, message=FALSE,warning=FALSE}
+library(readxl)
+library(shiny)
+library(dplyr)
+library(knitr)
+```
+
+
+
+## **PROPOSED ACTIVITY**
+
+### **RAFT BUILDING PROJECT**
+
+After receiving some basic tuition in navigation, the participants must pass the Robinson Crusoe Raft Navigation Test. Then they will be given a raft design kit and be assigned a budget to purchase everything they need to build a raft. Finally, all the teams will compete in a regatta with their creations.
+
+<img src = "http://www.youreventonline.es/event/v2005/fotos/photo-764.jpg" width="360"> <img src = "http://www.youreventonline.es/event/v2005/fotos/photo-1524.jpg" width="360" align="right">
+
+<img src = "http://www.youreventonline.es/event/v2005/fotos/photo-619.jpg"> 
+
+
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+
+
+<p class="comment">
+The cost will be: 
+Flat rate of €1500 
+Rate per person €121 </p>
+
+<style>
+p.comment {
+background-color:ffcc99 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+*To these rates we will need to add the rent of the venue and transfer* </p>
+
+*****
+
+
+
+** The price of our event includes**:
+
+- Telephone conversation in order to ascertain the requirements of the client.
+- Reservation of the agreed venue.
+- Setting up and dismantling of the entire event.
+- Transport of necessary materials to the site of the event.
+- Use of all the materials necessary to the event.
+- Team fees (Project manager and monitors).
+- Qualified, uniformed personnel.
+- Setting up of 9m2 (3x3) canvas tents (where possible).
+- Certain decorative elements depending on the event, such as banners and cordons.
+- Transport and expenses of our personnel.
+- Prize giving ceremony.
+- Medal for each member of the three winning teams.
+
+
+
+*****
+
+
+## **SUGESTED VENUE FOR THE ACTIVITY: MASIA ALDAMAR**
+
+* **Location** 25 minutes drive from Valencia city centre
+* **Facilities** Gardens and Pool 
+
+**Masía Aldamar** is a spectacular country estate, dedicated to orange growing, just 15km from the centre of Valencia and a mere 5 minutes from the airport. The estate dates from the(**15th century** and still maintains its original patios, wineries, oil press and chapel. The unique spaces offer the chance to hold one-of-a-kind events: the chapel for civil ceremonies, an ancient cobbled patio, a large capacity main hall and a hundred-year-old garden with the traditional pool that is a feature of Valencia ́s orange growing activity. There is also a second winery where the estate’s original wine-making activity has been revived.
+
+
+<img src = "https://grupoelalto.com/wp-content/uploads/2018/01/ALDAMAR-30-JARDINES.jpg"> 
+
+<img src = "http://www.milleniumbodasyeventos.com/sites/default/files/masia_aldamar_16-1024_0.jpg"> 
+
+
+
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+
+
+<p class="comment">
+Hire cost of the venue minimum charge €2400
+Open bar 2 hours during the activity including soft drinks, beer and water. Rate per person from €18 </p>
+
+<style>
+p.comment {
+background-color:ffcc99 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+*Transfer is needed to arrive the venue - the cost of 54 seater coach 4 hours at disposal for the activity starting at 430€* </p>
+
+
+*****
+
+## Terms & Conditions
+
+  * Rates valid for 2019.
+  
+  * Rates 8% Commissionable for Helmsbriscoe
+  
+  * For a group of minimum 50 pax.
+  
+  * Cutting Edge Events management fee including in the detailed rates
+  
+  * VAT included. 
+  
+  * No reservation has been done. Availability upon request.
+  
+*****
