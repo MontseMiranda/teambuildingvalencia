@@ -144,8 +144,6 @@ border-radius: 5px;
 
   * Rates valid for 2019.
   
-  * Rates 8% Commissionable for Helmsbriscoe
-  
   * For a group of minimum 50 pax.
   
   * Cutting Edge Events management fee including in the detailed rates
