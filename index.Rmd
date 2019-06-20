@@ -38,7 +38,6 @@ library(knitr)
 
 After receiving some basic tuition in navigation, the participants must pass the Robinson Crusoe Raft Navigation Test. Then they will be given a raft design kit and be assigned a budget to purchase everything they need to build a raft. Finally, all the teams will compete in a regatta with their creations.
 
-
 <div class="clearfix">
   <div class="img-container" style="float: left;
   width: 33.33%;
@@ -59,14 +58,6 @@ After receiving some basic tuition in navigation, the participants must pass the
 </div>  
 <hr><br>
 
-
-
-
-
-
-
-
-
 <style>
 p.comment {
 background-color: #ffcc99;
@@ -75,8 +66,6 @@ border: 1px solid black;
 border-radius: 5px;
 }
 </style>
-
-
 
 <p class="comment">
 The cost will be: 
@@ -95,10 +84,6 @@ border-radius: 5px;
 <p class="comment">
 *To these rates we will need to add the rent of the venue and transfer* </p>
 
-*****
-
-
-
 ** The price of our event includes**:
 
 - Telephone conversation in order to ascertain the requirements of the client.
@@ -113,10 +98,6 @@ border-radius: 5px;
 - Transport and expenses of our personnel.
 - Prize giving ceremony.
 - Medal for each member of the three winning teams.
-
-
-
-*****
 
 
 #### **SUGESTED VENUE FOR THE ACTIVITY: MASIA ALDAMAR**
@@ -141,33 +122,6 @@ border-radius: 5px;
   <div style="clear: both;"></div>
 </div>  
 <hr><br>
-
-
-
-<section class="container">
-
-<div class ="one" style="float: left;
-    padding: 5px;">
-<p><i class="fa fa-clock-o" style="font-size:20px;color:orange;"></i> 
-<b>Duration: 120 mins</b></p>
-<p><i class="fa fa-bicycle" style="font-size:20px;color:orange;"></i> 
-<b>Difficulty Level: Easy</b></p>
-<p><i class="fa fa-wheelchair" style="font-size:20px;color:orange;"></i> 
-<b>Handicapped Facilities: non recommended</b></p>
-</div>
-
-<div class ="two" style="float: left;
-    padding: 5px;">
-<p><i class="fa fa-venus-mars" style="font-size:20px;color:orange;"></i> 
-<b>Toilet facilities: Yes</b></p>
-<p><i class="fa fa-bus" style="font-size:20px;color:orange;"></i> 
-<b>Requires bus: Yes</b></p>
-<p><i class="fa fa-users" style="font-size:20px;color:orange;"></i> 
-<b>Max. Nr of pax: 200 pax maximum</p>
-</div>
-</section>
-</div>
-
 
 <style>
 p.comment {
@@ -197,6 +151,7 @@ border-radius: 5px;
 
 
 ### **COOKING CHALLENGE**
+
 * **Location** CITY CENTRE
 * **Facilities** Food and fun space 
 * **Duration** 18h to 22h
@@ -232,32 +187,6 @@ At the end **the group will taste** and share everything prepared in a unique an
 <hr><br>
 
 
-<section class="container">
-
-<div class ="one" style="float: left;
-    padding: 5px;">
-<p><i class="fa fa-clock-o" style="font-size:20px;color:orange;"></i> 
-<b>Duration: 120 mins plus dinner time</b></p>
-<p><i class="fa fa-bicycle" style="font-size:20px;color:orange;"></i> 
-<b>Difficulty Level: Medium</b></p>
-<p><i class="fa fa-wheelchair" style="font-size:20px;color:orange;"></i> 
-<b>Handicapped Facilities: Yes</b></p>
-</div>
-
-<div class ="two" style="float: left;
-    padding: 5px;">
-<p><i class="fa fa-venus-mars" style="font-size:20px;color:orange;"></i> 
-<b>Toilet facilities: Yes</b></p>
-<p><i class="fa fa-bus" style="font-size:20px;color:orange;"></i> 
-<b>Requires bus: Yes</b></p>
-<p><i class="fa fa-users" style="font-size:20px;color:orange;"></i> 
-<b>Max. Nr of pax: 40 pax maximum</p>
-</div>
-</section>
-</div>
-
-
-
 <style>
 p.comment {
 background-color: #ffcc99;
@@ -282,7 +211,7 @@ border-radius: 5px;
 </style>
 
 <p class="comment">
-*Transfer is needed to arrive the venue - the cost of 54 seater coach 4 hours at disposal for the activity starting at 430* </p>
+*Transfer is needed to arrive the venue - the cost of 54 seater coach 4 hours at disposal for the activity starting at 430€* </p>
 
 
 *****
