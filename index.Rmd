@@ -38,9 +38,32 @@ library(knitr)
 
 After receiving some basic tuition in navigation, the participants must pass the Robinson Crusoe Raft Navigation Test. Then they will be given a raft design kit and be assigned a budget to purchase everything they need to build a raft. Finally, all the teams will compete in a regatta with their creations.
 
-<img src = "http://www.youreventonline.es/event/v2005/fotos/photo-764.jpg" width="360"> <img src = "http://www.youreventonline.es/event/v2005/fotos/photo-1524.jpg" width="360" align="right">
 
-<img src = "http://www.youreventonline.es/event/v2005/fotos/photo-619.jpg" width="800"> 
+<div class="clearfix">
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="boats1.jpg" alt="boat" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="boats2.jpg" alt="boat" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="boats3.jpg" alt="boat" style="width:100%">
+  </div>
+  <div style="clear: both;"></div>
+</div>  
+<hr><br>
+
+
+
+
+
+
 
 
 
@@ -104,9 +127,46 @@ border-radius: 5px;
 **Masía Aldamar** is a spectacular country estate, dedicated to orange growing, just 15km from the centre of Valencia and a mere 5 minutes from the airport. The estate dates from the(**15th century** and still maintains its original patios, wineries, oil press and chapel. The unique spaces offer the chance to hold one-of-a-kind events: the chapel for civil ceremonies, an ancient cobbled patio, a large capacity main hall and a hundred-year-old garden with the traditional pool that is a feature of Valencia ́s orange growing activity. There is also a second winery where the estate’s original wine-making activity has been revived.
 
 
-<img src = "https://grupoelalto.com/wp-content/uploads/2018/01/ALDAMAR-30-JARDINES.jpg"> 
+<div class="clearfix">
+  <div class="img-container" style="float: left;
+  width: 50%;
+  padding: 5px;">
+  <img src="aldamar1.jpg" alt="aldamar" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 50%;
+  padding: 5px;">
+  <img src="aldamar2.jpg" alt="aldamr" style="width:100%">
+  </div>
+  <div style="clear: both;"></div>
+</div>  
+<hr><br>
 
-<img src = "http://www.milleniumbodasyeventos.com/sites/default/files/masia_aldamar_16-1024_0.jpg"> 
+
+
+<section class="container">
+
+<div class ="one" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-clock-o" style="font-size:20px;color:orange;"></i> 
+<b>Duration: 120 mins</b></p>
+<p><i class="fa fa-bicycle" style="font-size:20px;color:orange;"></i> 
+<b>Difficulty Level: Easy</b></p>
+<p><i class="fa fa-wheelchair" style="font-size:20px;color:orange;"></i> 
+<b>Handicapped Facilities: non recommended</b></p>
+</div>
+
+<div class ="two" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-venus-mars" style="font-size:20px;color:orange;"></i> 
+<b>Toilet facilities: Yes</b></p>
+<p><i class="fa fa-bus" style="font-size:20px;color:orange;"></i> 
+<b>Requires bus: Yes</b></p>
+<p><i class="fa fa-users" style="font-size:20px;color:orange;"></i> 
+<b>Max. Nr of pax: 200 pax maximum</p>
+</div>
+</section>
+</div>
 
 
 <style>
