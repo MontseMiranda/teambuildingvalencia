@@ -1,17 +1,18 @@
 ---
 title: "TEAMBULDING ACTIVITY IN VALENCIA"
 author: "HELMSBRISCOE"
-date: 'JULY 3RD 2019'
+date: "JULY 3RD 2019"
 output:
- 
   html_document:
     css: FORMATO.css
-    fig_width: 8
     fig_height: 8
+    fig_width: 8
     highlight: textmate
     theme: cosmo
     toc: yes
     toc_float: yes
+  pdf_document:
+    toc: yes
 ---
 
 <script> 
@@ -31,7 +32,7 @@ library(knitr)
 
 
 
-## **PROPOSED ACTIVITY**
+## **PROPOSED ACTIVITIES** {.tabset .tabset-fade .tabset-pills}
 
 ### **RAFT BUILDING PROJECT**
 
@@ -95,7 +96,7 @@ border-radius: 5px;
 *****
 
 
-## **SUGESTED VENUE FOR THE ACTIVITY: MASIA ALDAMAR**
+#### **SUGESTED VENUE FOR THE ACTIVITY: MASIA ALDAMAR**
 
 * **Location** 25 minutes drive from Valencia city centre
 * **Facilities** Gardens and Pool 
@@ -108,8 +109,6 @@ border-radius: 5px;
 <img src = "http://www.milleniumbodasyeventos.com/sites/default/files/masia_aldamar_16-1024_0.jpg"> 
 
 
-
-
 <style>
 p.comment {
 background-color: #ffcc99;
@@ -118,7 +117,6 @@ border: 1px solid black;
 border-radius: 5px;
 }
 </style>
-
 
 
 <p class="comment">
@@ -136,6 +134,95 @@ border-radius: 5px;
 
 <p class="comment">
 *Transfer is needed to arrive the venue - the cost of 54 seater coach 4 hours at disposal for the activity starting at 430€* </p>
+
+
+### **COOKING CHALLENGE**
+* **Location** CITY CENTRE
+* **Facilities** Food and fun space 
+* **Duration** 18h to 22h
+
+_What can be more rewarding and exciting than knowing that you can prepare something delicious? What's more pleasant than seeing you in that wonderful place where the difference between work and fun disappears in a cloud of flour, in the aromatic steam that comes out of a pot or between glasses of a good red wine?_
+
+A different and exciting gastronomic experience in the **"Master Chef"** style in which the participants will elaborate **different tapas recipes** and compete for the best results following the chef's guidelines. At least **one of the recipes will be creative**, based on a main ingredient determined by the chef, with the rest of the ingredients being freely chosen.
+
+Attendees, organized into **work teams**, will **cook the dishes with local products** in a time limit. On the other hand, the teams will be free to give free rein to their imagination and intuition when it comes to developing the creative tapa. A **market zone** will be offered in which all the ingredients necessary to make the tapas will be found.
+
+The objective will be to discover talents and promote the cohesion of the group from a cook born of emotions, governed by intuition and spontaneity, where you put the limits. Cuisine made from the heart so that each dish is an experience.
+
+At the end **the group will taste** and share everything prepared in a unique and unforgettable dinner, because a good bite remains in the memory forever. The dishes, as well as the work of each team, will be valued and scored by the chef, who will **reward the winners*.**
+
+<div class="clearfix">
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="food&fun1.jpg" alt="F&F" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="food&fun2.jpg" alt="F&F" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="food&fun3.jpg" alt="F&F" style="width:100%">
+  </div>
+  <div style="clear: both;"></div>
+</div>  
+<hr><br>
+
+
+<section class="container">
+
+<div class ="one" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-clock-o" style="font-size:20px;color:orange;"></i> 
+<b>Duration: 120 mins plus dinner time</b></p>
+<p><i class="fa fa-bicycle" style="font-size:20px;color:orange;"></i> 
+<b>Difficulty Level: Medium</b></p>
+<p><i class="fa fa-wheelchair" style="font-size:20px;color:orange;"></i> 
+<b>Handicapped Facilities: Yes</b></p>
+</div>
+
+<div class ="two" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-venus-mars" style="font-size:20px;color:orange;"></i> 
+<b>Toilet facilities: Yes</b></p>
+<p><i class="fa fa-bus" style="font-size:20px;color:orange;"></i> 
+<b>Requires bus: Yes</b></p>
+<p><i class="fa fa-users" style="font-size:20px;color:orange;"></i> 
+<b>Max. Nr of pax: 40 pax maximum</p>
+</div>
+</section>
+</div>
+
+
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+
+<p class="comment">
+Total cost of the activity for 40 people is €5750
+Including: Exclusive space, organiztion, staff, 3 professinal chefs, purchase of ingredients for 40 people, Drinks (welcome cocktail, water, beer and 3 glasses of wine from Valencia for 40 pax) and somelier </p>
+
+<style>
+p.comment {
+background-color:ffcc99 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+*Transfer is needed to arrive the venue - the cost of 54 seater coach 4 hours at disposal for the activity starting at 430* </p>
 
 
 *****
