@@ -30,7 +30,9 @@ library(dplyr)
 library(knitr)
 ```
 
-
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 ## **PROPOSED ACTIVITIES** {.tabset .tabset-fade .tabset-pills}
 
@@ -198,8 +200,8 @@ border-radius: 5px;
 
 
 <p class="comment">
-Total cost of the activity for 40 people is €5750
-Including: Exclusive space, organiztion, staff, 3 professinal chefs, purchase of ingredients for 40 people, Drinks (welcome cocktail, water, beer and 3 glasses of wine from Valencia for 40 pax) and somelier </p>
+Total cost of the activity for 50 people is €6400
+Including: Exclusive space, organiztion, staff, 3 professinal chefs, purchase of ingredients for 50 people, Drinks (welcome cocktail, water, beer and 3 glasses of wine from Valencia for 50 pax) and somelier </p>
 
 <style>
 p.comment {
