@@ -71,8 +71,8 @@ border-radius: 5px;
 
 <p class="comment">
 The cost will be: 
-Flat rate of €1500 
-Rate per person €121 </p>
+Flat rate of €1450
+Rate per person €118 </p>
 
 <style>
 p.comment {
@@ -136,8 +136,8 @@ border-radius: 5px;
 
 
 <p class="comment">
-Hire cost of the venue minimum charge €2400
-Open bar 2 hours during the activity including soft drinks, beer and water. Rate per person from €18 </p>
+Hire cost of the venue minimum charge €2200
+Open bar 2 hours during the activity including soft drinks, beer and water. Rate per person from €16 </p>
 
 <style>
 p.comment {
@@ -200,7 +200,7 @@ border-radius: 5px;
 
 
 <p class="comment">
-Total cost of the activity for 50 people is €6400
+Total cost of the activity for 50 people is €6145
 Including: Exclusive space, organiztion, staff, 3 professinal chefs, purchase of ingredients for 50 people, Drinks (welcome cocktail, water, beer and 3 glasses of wine from Valencia for 50 pax) and somelier </p>
 
 <style>
@@ -214,6 +214,233 @@ border-radius: 5px;
 
 <p class="comment">
 *Transfer is needed to arrive the venue - the cost of 54 seater coach 4 hours at disposal for the activity starting at 430€* </p>
+
+
+
+### **IPAD TREASURE HUNT**
+
+* **Location** Any location
+
+* **Included** Briefing for the group, 1 ipad per team (teams 6/9 pax), game licence, onsite technical support and trophy for the 3 best teams. 
+
+* **Capacity**  minimum 10 pax; máximum 250 pax.
+
+The funniest way to discover a destination is to do it playing. We propose a race trough Valencia that will allow to guests discover the city and all its secrets. We will create an app just for them totally customized, we will split them in teams that will compete in a race full of challenges. Each team will have 1 iPad and a bag with the needed materials. Each team will have from 6 to 9 participants-  The Challenges that they have to pass will be very different: sportive, logical, quizzes, etc. Follow the link to see a short video:
+
+<iframe src="https://player.vimeo.com/video/288309048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/288309048">IPAD TREASURE HUNT video</a> from <a href="https://vimeo.com/user36870535">Cutting-Edge Events</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+
+<p class="comment">
+Total cost of the activity per person is 83€
+</p>
+
+<style>
+p.comment {
+background-color:ffcc99 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+*Optional: Translation of the activty to French 485€* </p>
+
+
+### **RAFTING TEAM**
+
+* **Location** Venta del Moro - 1 hour driver from Valencia 
+
+* **Duration of the activity** 3 hours transfer time not included - route in the river: 6 km. 
+
+* **Teams**: 8/9 people 
+
+Experience a white-water rafting adventure on the river Turia in Hoces del Cabrial with your colleagues. Don’t hesitate to join for a fun and exciting group activity!
+
+· Explore the river  rafting the white water - route 6 km.
+
+· You will cruise the rapids in a raft in the company of an experienced and professional guide.
+
+· Your safety is the priority. And so is your enjoyment.
+
+
+<div class="clearfix">
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="rafting1.jpg" alt="rafting" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="rafting2.jpg" alt="rafting" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="rafting3.jpg" alt="rafting" style="width:100%">
+  </div>
+  <div style="clear: both;"></div>
+</div>  
+<hr><br>
+
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+
+<p class="comment">
+Total cost of the activity per person is 52€
+</p>
+
+<style>
+p.comment {
+background-color:ffcc99 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+*Optional: 55 seater coach for the activity - 5 hours at disposal from 560€* </p>
+
+
+### **MULTIACTIVITY**
+
+* **Location** Venta del Moro - 1 hour driver from Valencia 
+
+* **Duration of the activity** 3 hours transfer time not included 
+
+* **Teams**: 8/9 people 
+
+this an adventure park located in the Hoces del Cabriel, with more than 110 adventure activities suspended in the trees to enjoy a multi-adventure experience with your colleagues
+
+Fun and excitement in a unique environment, with more than 500 meters of zip lines and more than 110 acrobatic activities. All this, prepared for you to live your own adventure.
+
+
+<div class="clearfix">
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="aventura1.jpg" alt="aventura" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="aventura2.jpg" alt="aventura" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="aventura3.jpg" alt="aventura" style="width:100%">
+  </div>
+  <div style="clear: both;"></div>
+</div>  
+<hr><br>
+
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+
+<p class="comment">
+Total cost of the activity per person is 57€
+</p>
+
+<style>
+p.comment {
+background-color:ffcc99 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+*Optional: 55 seater coach for the activity - 5 hours at disposal from 560€* </p>
+
+
+### **ALBUFERA NATIONAL PARK**
+
+* **Location** 12km from Valencia, inside the Natural Park 
+
+* **Duration of the activity** 2 hours Paella cooking activity plus dinner
+
+* **Teams**: 8/9 people 
+
+La Albufera is a freshwater lagoon and estuary on the Gulf of Valencia coast of the Valencian Community. It is the main portion of the Parc Natural de l'Albufera de València ("Valencian Albufera Natural Park"), with a surface area of 21,120 hectares (52,200 acres). The natural biodiversity of the nature reserve allows a great variety of flora and fauna to thrive and be observed year-round. Though once a saltwater lagoon, dilution due to irrigation and canals draining into the estuary and the sand bars increasing in size had converted it to freshwater by the seventeenth century.
+
+
+<img src = "https://guiarepsol.s3.amazonaws.com/pro/media/filer_public/ec/79/ec794cda-1c64-4a7e-9255-a737c78247c8/albufera.jpg">
+
+The activity we suggest is a cooking activity in La Barraca del Palmar.
+**¿What is Barraca?** Formerly, it was the typical dwelling in Valencia. It was used both for housing and for storage as well as for the fishermen. At present some are still preserved. You can find the ”modern" (built with materials other than traditional) and old ones. Many of the latter are in poor condition, due in some cases to the carelessness of the owners and the lack of interest for their conservation by official bodies. 
+However “La Barraca del Palmar” of Albufera is restored to accommodate huge groups such as yours. Also, is pretty well located due to provides views to the lake.
+
+<img src = "https://cdn1.guias-viajar.com/wp-content/uploads/2013/09/fotos-valencia-barraca-albufera-014.jpg">
+
+**The activity** The activity will consist in a Paella  cooking. Paella is the most traditional dish in Valencia, and it has all kind of variations such as Vegetables paella, shellfish paella, etc.
+The group will be split in different groups and each one will make their own paella. 
+A set of instructors will be giving advise to the participants during the workshop.
+
+<img src = "http://www.alade3.es/public/assets/images/casos_exito/mini/005-SHOW-COOKING-VALENCIA.jpg">
+
+
+**The dinner** Once they had finished with the workshop, they will have the pleasure to taste their own creations. But it won’t be a traditional dinner in a simple place… The dinner will take place in a at the barraca Gardens overlooking the lake
+
+<img src = "https://grupoelalto.com/wp-content/uploads/2018/01/BARRACA-7.jpg">
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+
+<p class="comment">
+Total cost of the activity, dinner included, per person from 95€. Barraca hire cost 300€. Wc portable €200
+</p>
+
+<style>
+p.comment {
+background-color:ffcc99 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+*55 seater coach for the activity - 4 hours at disposal from 400€* </p>
 
 
 *****
